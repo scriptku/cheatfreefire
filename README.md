@@ -1,0 +1,2 @@
+# cheatfreefire
+pembukaan scriptku
