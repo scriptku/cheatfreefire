@@ -10,6 +10,9 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
 echo
+clear
+
+echo
 echo $ku "Selamat Datang Di Github Gw"
 echo "Masukkan Kode Script Nya"
 read -p "root@Kode Script > " bro
@@ -23,11 +26,11 @@ echo $cy "########################"
 echo "##" $pu "subscribe channel gw broo"
 sleep 2
 termux-open https://youtube.com/channel/UCAdKWwRiRs35dLFkt1s3LHg
-sleep 6
+sleep 9
 echo $cy "##" $pu "Follow Instagram Gw"
 sleep 2
 termux-open https://instagram.com/scriptku
-sleep 8
+sleep 9
 echo $cy "#########################"
 echo $ku "Terimakasih " $nick
 echo
